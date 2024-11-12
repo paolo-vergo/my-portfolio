@@ -4,7 +4,7 @@
   background-size: cover;       /* Ensures the image covers the section without distorting */
   background-position: center;  /* Centers the image */
   background-repeat: no-repeat; /* Prevents the image from repeating */
-  max-height: 90vh; /* Adjusts for the navbar height */
+  max-height: 92vh; /* Adjusts for the navbar height */
   display: flex;
   flex-direction: column;
   justify-content: center;
